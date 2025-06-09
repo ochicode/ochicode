@@ -47,14 +47,10 @@ My passion lies in technology innovations that empower education and communities
 
 ---
 
-## 📈 GitHub Stats & More
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ochicode&show_icons=true&theme=radical" alt="Benard's GitHub Stats" width="430"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ochicode&theme=radical&hide_border=true" alt="GitHub Streak" width="390"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochicode&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
