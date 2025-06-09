@@ -47,14 +47,6 @@ My passion lies in technology innovations that empower education and communities
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ochicode&theme=radical&hide_border=true" alt="GitHub Streak" width="390"/>
-</p>
-
----
-
 ## 🗨️ Random Fun Fact
 
 > Did you know? I can debug code with one hand while sipping Kenyan coffee with the other. ☕️🖥️
