@@ -1,8 +1,4 @@
-<!-- Greetings with avatar -->
-<p align="center">
-  <img src="https://github.com/ochicode.png" width="120" style="border-radius: 50%" alt="Benard Ochanda"/>
-</p>
-
+<!-- Greetings -->
 <h1 align="center">Hi, I’m Benard Ochanda 👋</h1>
 <p align="center">
   <em>Full-Stack Developer | Tech Innovator | Community Advocate</em>
